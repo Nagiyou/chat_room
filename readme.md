@@ -1,15 +1,15 @@
-#Java������
+# Java聊天器
 
-���г���ǰ�Ƚ�userInfo.properties������f�̸�Ŀ¼�£�
-userInfo.properties���������˺���Ϣ��
+运行程序前先将userInfo.properties拷贝到f盘根目录下！
+userInfo.properties中有三个账号信息！
 
-�ֱ��ǣ�
+分别是：
 
-*�û�����cyj       ���룺123456
-*�û�����jk1403    ���룺1403
-*�û�����huiwu     ���룺000000
+* 用户名：cyj       密码：123456
+* 用户名：jk1403    密码：1403
+* 用户名：huiwu     密码：000000
 
-**����ѡһ���˺ŵ�½��**
+** 可任选一个账号登陆！ **
 
-by ���Ѿ�
+by 陈友军
 2016.6.19
