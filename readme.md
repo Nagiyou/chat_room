@@ -11,5 +11,5 @@ userInfo.properties中有三个账号信息！
 
 ** 可任选一个账号登陆！ **
 
-by 陈友军
+by cyj
 2016.6.19
